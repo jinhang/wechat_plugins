@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wechat_robot Maven Webapp"
+  id="myeclipse.1456113851453"
+  context-root="/wechat_robot"
+  j2ee-spec="6.0"
+  archive="wechat_robot Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
