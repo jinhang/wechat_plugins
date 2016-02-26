@@ -1,6 +1,6 @@
 # wechat_plugins
 微信新版自动聊天助手
->感谢biezhi
+
 >
 ##部署
 > 1.部署到tomcat上，访问http://localhost:8080/wechat_robot/HelpChat，微信扫描二维码登录。
